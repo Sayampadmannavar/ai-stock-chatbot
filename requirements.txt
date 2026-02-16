@@ -6,3 +6,4 @@ python-dotenv
 alpha_vantage
 groq
 yfinance
+pandas_ta
