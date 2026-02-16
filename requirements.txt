@@ -2,8 +2,6 @@ streamlit
 pandas
 plotly
 requests
-alpha_vantage
 python-dotenv
-transformers
-huggingface-hub
+alpha_vantage
 groq
