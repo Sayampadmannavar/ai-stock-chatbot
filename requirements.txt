@@ -5,6 +5,5 @@ requests
 alpha_vantage
 python-dotenv
 transformers
-torch
 huggingface-hub
 groq
